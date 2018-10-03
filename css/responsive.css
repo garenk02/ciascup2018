@@ -242,9 +242,6 @@
 
 /* Medium devices Max 991px */
 @media only screen and (max-width: 991px) {
-    .sec-spacer{
-        padding: 80px 0;
-    }
     .our-team-section.team-inner-page,
     .our-products-section,
     .gallery-section-page2,
