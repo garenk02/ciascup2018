@@ -1291,7 +1291,7 @@
         font-size: 14px;
     }
     .squad-list .list-item .image {
-        width: 15%;
+        width: 25%;
     }
     .squad-list .list-item .list-text {
         width: 85%;
@@ -1300,7 +1300,7 @@
         width: 40%;
     }
     .squad-list .list-item .list-text .name {
-        width: 50%;
+        width: 75%;
     }
     .squad-list .list-item .list-text .name h4 {
         font-size: 14px;
