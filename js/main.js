@@ -363,7 +363,7 @@
                         .st
                         .image
                         .markup
-                        .replace('mfp-figure', 'mfp-figure animated zoomInDown');
+                        .replace('mfp-figure', 'mfp-figure animated zoomIn');
                 }
             },
             gallery: {
