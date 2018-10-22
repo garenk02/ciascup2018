@@ -2810,8 +2810,8 @@ body .modal-backdrop {
 }
 
 .match-list {
-  background: url(images/match-bg.jpg);
-  background-size: cover;
+  /* background: url(images/match-bg.jpg);
+  background-size: cover; */
   position: relative;
   padding: 20px 0;
 }
@@ -4928,7 +4928,7 @@ body .modal-backdrop {
 .clicent-logo-section2 {
   padding-bottom: 50px;
   position: relative;
-  background: url(images/awards-bg.jpg);
+  background: url('https://image.ibb.co/kQXj0f/awards-bg.jpg');
   background-size: cover;
 }
 
